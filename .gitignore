@@ -16,3 +16,7 @@ db/*
 
 # model
 model/*
+
+src/.env
+src/kanana_rag
+src/lora_adapter_ka
